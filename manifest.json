@@ -1,6 +1,6 @@
 {
     "name": "DukesModpack",
-    "version_number": "1.0.1",
+    "version_number": "1.0.2",
     "website_url": "https://github.com/dukedotdev/DukesModpack",
     "description": "A modpack for my friends. Includes client side and server side mods.",
     "dependencies": [
