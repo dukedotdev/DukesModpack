@@ -1,0 +1,24 @@
+{
+    "name": "DukesModpack",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/dukedotdev/DukesModpack",
+    "description": "A modpack for my friends. Includes client side and server side mods.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "2018-LC_API-1.3.0",
+        "Giltong-LethalCompanyDRP-1.2.0",
+        "notnotnotswipez-MoreCompany-1.4.1",
+        "tinyhoot-ShipLoot-1.0.0",
+        "FlipMods-ReservedItemSlotCore-1.2.4",
+        "FlipMods-ReservedFlashlightSlot-1.2.0",
+        "FlipMods-ReservedWalkieSlot-1.2.0",
+        "AlexCodesGames-AdditionalSuits-1.0.1",
+        "Drakorle-MoreItems-1.0.0",
+        "MoreLethal-Pinger-2.5.5",
+        "MaxWasUnavailable-MoonOfTheDay-1.0.3",
+        "Tyzeron-Minimap-1.0.1",
+        "ATK-ShipClock-0.9.0",
+        "FlipMods-LetMeLookDown-1.0.1",
+        "SteamBlizzard-MetalPipeItems-1.0.0"
+    ]
+}

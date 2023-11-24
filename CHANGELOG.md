@@ -1,0 +1,10 @@
+`1.0.0`
+
+- Initial Release
+
+`1.0.1`
+
+- Update Pinger mod from 2.5.0 → 2.5.5.
+- Remove mention of host side mods from the manifest.json description.
+- Switch link in manifest.json from my personal website to GitHub repo.
+- Switch mention of Thunderstore Mod Manager to r2modman in README.md.
