@@ -12,3 +12,7 @@
 `1.0.2`
 
 - Remove accidental hyperlink in CHANGELOG.
+
+`1.0.3`
+
+- Update Minimap mod from 1.0.1 → 1.0.2
