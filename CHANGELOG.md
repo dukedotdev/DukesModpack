@@ -15,8 +15,13 @@
 
 `1.0.3`
 
-- Update Minimap mod from 1.0.1 → 1.0.2
+- Update Minimap mod from 1.0.1 → 1.0.2.
 
 `1.0.4`
 
-- Update ReservedItemSlotCore from 1.2.4 → 1.2.5
+- Update ReservedItemSlotCore from 1.2.4 → 1.2.5.
+
+`1.0.5`
+
+- Update ReservedWalkieSlot from 1.2.0 → 1.2.1.
+- Update ReservedFlashlightSlot from 1.2.0 → 1.2.1.

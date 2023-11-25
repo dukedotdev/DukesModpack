@@ -1,6 +1,6 @@
 {
     "name": "DukesModpack",
-    "version_number": "1.0.4",
+    "version_number": "1.0.5",
     "website_url": "https://github.com/dukedotdev/DukesModpack",
     "description": "A modpack for my friends. Includes client side and server side mods.",
     "dependencies": [
@@ -10,8 +10,8 @@
         "notnotnotswipez-MoreCompany-1.4.1",
         "tinyhoot-ShipLoot-1.0.0",
         "FlipMods-ReservedItemSlotCore-1.2.5",
-        "FlipMods-ReservedFlashlightSlot-1.2.0",
-        "FlipMods-ReservedWalkieSlot-1.2.0",
+        "FlipMods-ReservedFlashlightSlot-1.2.1",
+        "FlipMods-ReservedWalkieSlot-1.2.1",
         "AlexCodesGames-AdditionalSuits-1.0.1",
         "Drakorle-MoreItems-1.0.0",
         "MoreLethal-Pinger-2.5.5",
