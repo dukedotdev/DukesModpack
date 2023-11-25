@@ -1,6 +1,6 @@
 {
     "name": "DukesModpack",
-    "version_number": "1.0.3",
+    "version_number": "1.0.4",
     "website_url": "https://github.com/dukedotdev/DukesModpack",
     "description": "A modpack for my friends. Includes client side and server side mods.",
     "dependencies": [
@@ -9,7 +9,7 @@
         "Giltong-LethalCompanyDRP-1.2.0",
         "notnotnotswipez-MoreCompany-1.4.1",
         "tinyhoot-ShipLoot-1.0.0",
-        "FlipMods-ReservedItemSlotCore-1.2.4",
+        "FlipMods-ReservedItemSlotCore-1.2.5",
         "FlipMods-ReservedFlashlightSlot-1.2.0",
         "FlipMods-ReservedWalkieSlot-1.2.0",
         "AlexCodesGames-AdditionalSuits-1.0.1",
